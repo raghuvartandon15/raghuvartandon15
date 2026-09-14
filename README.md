@@ -28,9 +28,3 @@
  -->
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-
-```txt
-C/C++       2 hrs 42 mins   █████████████████████▓░░░   87.22 %
-Java        1 hr 20 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 %
-Python      45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
-```
