@@ -9,13 +9,9 @@
 
 - 💬 Ask me about **JAVA, C/C++, PYTHON**
 
-- 📫 How to reach me **raghuvartandon15@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/raghuva30274878" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raghuva30274878" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/raghuvar-tandon-180b69273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raghuvar-tandon-180b69273" height="30" width="40" /></a>
-<a href="https://fb.com/rax.tandon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rax.tandon" height="30" width="40" /></a>
 <a href="https://instagram.com/raghuvar.tandon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raghuvar.tandon" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/raghuvartandon15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="raghuvartandon15" height="30" width="40" /></a>
 </p>
