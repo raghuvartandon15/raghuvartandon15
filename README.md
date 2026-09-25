@@ -14,7 +14,7 @@ AI/ML Engineer | GenAI & Agentic AI | MLOps & Cloud | Physical AI
 
 ## 👨‍💻 About Me
 
-I'm an AI/ML and Cloud Engineering professional currently working at **Deloitte USI**, building AI systems, ML infrastructure, and deployment workflows for production environments.
+I'm an **AI/ML and Cloud Engineering** professional, building AI systems, ML infrastructure, and deployment workflows for production environments.
 
 My interests and experience span:
 
@@ -74,22 +74,6 @@ End-to-end ML deployment architecture automating **AWS infrastructure provisioni
 A computer-vision-based wearable system enabling **gesture-controlled interaction with household appliances**.
 
 **Tech:** YOLO · MediaPipe · Raspberry Pi · Arduino Uno · Python · OpenCV
-
----
-
-## 💼 Experience
-
-### Deloitte USI
-**Associate Engineer (AIOps & Cloud)**  
-Sep 2025 – Present
-
-Working across AI/ML engineering, MLOps, cloud infrastructure, Physical AI and digital-twin systems.
-
-- AI Advisor Agent for USD-based data-center digital twins
-- Automated NVIDIA Triton inference deployment framework
-- ML model onboarding and deployment infrastructure
-- Kubernetes, AWS S3, PostgreSQL, FiftyOne and MinIO integrations
-- Isaac Sim, Omniverse, USD and ROS2-based Physical AI systems
 
 ---
 
